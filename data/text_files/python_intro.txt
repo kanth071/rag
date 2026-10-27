@@ -1,0 +1,25 @@
+Python Programming Introduction
+
+Python is a high-level, interpreted, general-purpose programming language.
+It is known for its simple and easy-to-read syntax, making it a popular
+choice for beginners as well as experienced developers.
+
+Python was created by Guido van Rossum and was first released in 1991.
+It supports multiple programming paradigms, including procedural,
+object-oriented, and functional programming.
+
+Python is widely used in web development, data analysis, artificial
+intelligence, machine learning, automation, scientific computing, and
+software development.
+
+One of the main advantages of Python is its large collection of libraries
+and frameworks. Popular libraries include NumPy, Pandas, Matplotlib, and
+Scikit-learn. Frameworks such as Django and Flask are commonly used for
+web development.
+
+Example of a simple Python program:
+
+print("Hello, World!")
+
+Python's readability, flexibility, and extensive community support make it
+one of the most widely used programming languages in the world.
